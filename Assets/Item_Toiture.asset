@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 647ae52e97412854ab80dfad0fde1266, type: 3}
+  m_Name: Item_Toiture
+  m_EditorClassIdentifier: Assembly-CSharp::ShopItem
+  nom: Toiture
+  cout: 25
+  prefab: {fileID: 100000, guid: b74c48c2e73e17c418c9394124b75daf, type: 3}
+  reductionPollution: 2
+  reductionTemperature: 0.5
+  gainBiodiversite: 3
